@@ -13,3 +13,6 @@ undefined
 ## Использование
 Чтобы посмотреть страницу, откройте `index.html` в браузере:
 undefined
+## Контакты
+- GitHub: [ВАШЕ_ИМЯ](https://github.com/ВАШЕ_ИМЯ)
+- Email: your.email@example.com
