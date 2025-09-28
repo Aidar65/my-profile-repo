@@ -10,3 +10,6 @@ git clone https://github.com/ВАШЕ_ИМЯ/my-profile-repo.git
 2. Перейти в папку проекта:
 cd my-profile-repo
 undefined
+## Использование
+Чтобы посмотреть страницу, откройте `index.html` в браузере:
+undefined
